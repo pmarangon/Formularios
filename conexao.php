@@ -4,7 +4,6 @@ $host= "localhost";
 $user= "root";
 $pass= "";
 
-
 $dbname= "minhacena";
 
 
